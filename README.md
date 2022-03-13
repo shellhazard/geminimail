@@ -1,6 +1,6 @@
 ## geminimail
 
-A Gemini service for fetching disposable email addresses, powered by 10minutemail.
+A Gemini service for generating disposable email addresses, powered by 10minutemail.
 
 ![geminimail accessed through the Lagrange browser](screenshot.png)
 
