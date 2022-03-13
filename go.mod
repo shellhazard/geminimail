@@ -5,7 +5,7 @@ go 1.17
 require (
 	git.sr.ht/~adnano/go-gemini v0.2.2
 	github.com/gofrs/uuid v4.2.0+incompatible
-	github.com/shellhazard/tmm v0.0.0-20211129093333-9437fc34df4b
+	github.com/shellhazard/tmm v0.0.0-20220313101647-3f2ab29f0589
 )
 
 require (
