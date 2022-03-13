@@ -2,6 +2,8 @@
 
 A Gemini service for fetching disposable email addresses, powered by 10minutemail.
 
+![geminimail accessed through the Lagrange browser](http://url/to/img.png)
+
 ### Usage
 
 Generate a self-signed certificate for the server to use. If you're unsure, you can use the example utility provided by the `go-gemini` library, where `localhost` is the host you want to sign for:
