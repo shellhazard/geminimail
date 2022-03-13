@@ -1,10 +1,10 @@
 ## geminimail
 
-A Gemini server for fetching disposable email addresses, powered by 10minutemail.
+A Gemini service for fetching disposable email addresses, powered by 10minutemail.
 
 ### Usage
 
-Generate a self-signed certificate for the server to use. If you're unsure, you can use the example utility provided by the `go-gemini` library, where `localhost` is the host you want to sign:
+Generate a self-signed certificate for the server to use. If you're unsure, you can use the example utility provided by the `go-gemini` library, where `localhost` is the host you want to sign for:
 ```
 git clone git.sr.ht/~adnano/go-gemini
 cd ./go-gemini/examples
