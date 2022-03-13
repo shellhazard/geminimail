@@ -1,0 +1,6 @@
+# Geminimail
+
+Get a disposable email address instantly without leaving Gemini.
+
+=> new Get a new email address
+=> about About this site
